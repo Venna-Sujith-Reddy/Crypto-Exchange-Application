@@ -1,0 +1,27 @@
+dvt contract
+
+deployed from - 0x71B6711c73042a799c3339AF93Ed9C1446d105B2 
+
+dvt address - 0x261Ffa9f79b9Ad631157d41ef44062a1D10ec56b 
+
+
+EVT Contract
+
+deployed from - 0xcFFC2A56F210E2833Ae81fB9B5C2f1D16EccBB1b
+
+Evt address - 0x25d8EebBb35FE6960f922b6e217a2C876960dC65
+
+
+TokenSwap
+
+Contract address - 0xC4F8161B843a99E5a27fCbad58B22b2c1C124613
+
+Deployed from - 0xcFFC2A56F210E2833Ae81fB9B5C2f1D16EccBB1b
+
+
+Get Current Price Contract Address - 0xa25B99cC696F950157c5d5de17D2a9f068845529
+
+
+351462879 phone pass
+
+
